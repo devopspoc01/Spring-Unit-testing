@@ -4,7 +4,7 @@ view and delete various Todo items.
 
 **To build our Todo application, we will use the following technologies/tools**:-
 1. Spring Boot
-2. H2 In-memory database
+2. MySQL database
 3. Spring Data JPA
 4. BootStrap
 5. Thymeleaf
